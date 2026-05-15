@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Aditya%20Velpula&fontSize=62&fontAlignY=38&fontColor=ffffff&desc=AI%20Engineer%20%7C%20RAG%20%26%20LLM%20Systems%20%7C%205x%20AWS%20Certified&descSize=18&descAlignY=60&animation=fadeIn" alt="header banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F2937,100:58A6FF&height=220&section=header&text=Aditya%20Velpula&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20RAG%20%26%20LLM%20Systems%20%E2%80%A2%205x%20AWS%20Certified&descSize=18&descAlignY=58&animation=fadeIn" alt="Aditya Velpula banner" width="100%"/>
+
+# 👋 Aditya Velpula
 
 <a href="https://github.com/Aditya20029">
   <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer+building+production+RAG+systems;M.S.+Data+Analytics+%40+George+Mason+University;LLM+Orchestration+%E2%80%A2+FastAPI+%E2%80%A2+Docker+%E2%80%A2+AWS;Turning+messy+data+into+shipped+products&font=Fira%20Code&center=true&width=760&height=50&color=58A6FF&vCenter=true&pause=1000&size=22" alt="typing"/>
@@ -205,7 +207,7 @@ YOLO localization combined with Tesseract OCR for near-real-time plate extractio
 
 <p align="center"><i>"Build things that ship. Measure what matters. Keep learning."</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F2937,100:0D1117&height=120&section=footer" alt="footer" width="100%"/>
 
 <!---
 Aditya20029/Aditya20029 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

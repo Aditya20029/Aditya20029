@@ -191,12 +191,12 @@ YOLO localization combined with Tesseract OCR for near-real-time plate extractio
 ### 📈 GitHub Stats
 
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aditya20029&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=450" alt="github stats"/>
+<img height="180" src="https://github-readme-stats.hackclub.dev/api?username=Aditya20029&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=450" alt="github stats"/>
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya20029&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </p>
 
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya20029&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=450" alt="top languages"/>
+<img height="180" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=Aditya20029&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=450" alt="top languages"/>
 </p>
 
 <p align="center">
